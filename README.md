@@ -4,7 +4,8 @@
 
 
 To do list:
-- Change colors from magenta secondary and white tertiary --> white secondary magenta tertiary.
+- Use zinnia to create a blog.
+- Learn about migrations.
+- Make a blog post.
 - Edit production settings.py.
-- Add blog.
 - Add lift graphing.
