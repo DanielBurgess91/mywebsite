@@ -45,20 +45,20 @@ li {
 
 a:link {
   text-decoration: none;
-  color: #652F90;
+  color: #FFFFFF;
 }
 
 a:visited {
   text-decoration: none;
-  color: #652F90;
+  color: #FFFFFF;
 }
 
 a:hover {
   text-decoration: none;
-  color: #FFFFFF;
+  color: #652F90;
 }
 
 a:active {
   text-decoration: none;
-  color: #FFFFFF;
+  color: #652F90;
 }
