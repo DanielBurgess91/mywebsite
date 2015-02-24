@@ -9,3 +9,8 @@ To do list:
 - Make a blog post.
 - Edit production settings.py.
 - Add lift graphing.
+
+Not tracked:
+- Settings.py.
+- Database.
+- Environment.
