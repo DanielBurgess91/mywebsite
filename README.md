@@ -5,6 +5,9 @@
 
 To do list:
 - Use zinnia to create a blog.
+    1. Install zinnia.              Complete.
+    2. Integrate html/css.
+    3. Write some blog posts.
 - Learn about migrations.
 - Make a blog post.
 - Edit production settings.py.
